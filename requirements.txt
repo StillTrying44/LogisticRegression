@@ -1,7 +1,4 @@
 pandas 
 streamlit
-sklearn.linear_model 
-LogisticRegression
+sklearn
 pickle
-dump
-load
