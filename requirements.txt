@@ -1,0 +1,7 @@
+pandas 
+streamlit
+sklearn.linear_model 
+LogisticRegression
+pickle
+dump
+load
